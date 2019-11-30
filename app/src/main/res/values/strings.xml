@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coding Challenge</string>
+     <string name="test_toolbar_text">Your last visit was on: Nov 30, 2019</string>
+    <string name="test_description">Visionary director J.J. Abrams brings to life the motion picture event of a generation. As Kylo Ren and the sinister First Order rise from the ashes of the Empire, Luke Skywalker is missing when the galaxy needs him most. It\\\'s up to Rey, a desert scavenger, and Finn, a defecting stormtrooper, to join forces with Han Solo and Chewbacca in a desperate search for the one hope of restoring peace to the galaxy.</string>
+    <string name="test_track_name">Star Wars: The Force Awakens</string>
+    <string name="test_genre"><![CDATA[Action & Adventure]]></string>
+    <string name="test_price">$19.99</string>
+    <string name="test_result_price">Buy from $19.99</string>
+    <string name="about_this_track">About this track</string>
+
+    <string name="backspace_pressagain">Press once again to exit</string>
+</resources>

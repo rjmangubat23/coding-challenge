@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Yellows-->
+    <color name="lightest_yellow">#FDFFAD</color>
+    <color name="light_yellow">#FCFF7C</color>
+    <color name="yellow">#fbdb16</color>
+    <color name="dark_yellow">#B8BA37</color>
+    <color name="darkest_yellow">#737423</color>
+
+    <!--Oranges-->
+    <color name="lightest_orange">#FFCF8B</color>
+    <color name="light_orange">#FFB245</color>
+    <color name="orange">#FF7F00</color>
+    <color name="dark_orange">#BA6E00</color>
+    <color name="darkest_orange">#744500</color>
+
+    <!--Reds-->
+    <color name="lightest_red">#E3A09C</color>
+    <color name="light_red">#D36761</color>
+    <color name="red">#C32F27</color>
+    <color name="dark_red">#8E231D</color>
+    <color name="darkest_red">#591612</color>
+
+    <!--Blues-->
+    <color name="lightest_blue">#72A6D6</color>
+    <color name="light_blue">#5492CC</color>
+    <color name="blue">#146ABA</color>
+    <color name="dark_blue">#0F4E88</color>
+    <color name="darkest_blue">#0A3155</color>
+    <color name="cobalt_blue">#1d4595</color>
+
+    <!--Forrest Greens-->
+    <color name="lightest_forest">#A1CDBD</color>
+    <color name="light_forest">#69B096</color>
+    <color name="forest">#32936F</color>
+    <color name="dark_forest">#256B51</color>
+    <color name="darkest_forest">#174333</color>
+
+    <!--Greens-->
+    <color name="lightest_green">#A3DBAD</color>
+    <color name="light_green">#6CC57C</color>
+    <color name="green">#36B04B</color>
+    <color name="dark_green">#288137</color>
+    <color name="darkest_green">#195023</color>
+
+    <!--Grays-->
+    <color name="transparent">#00000000</color>
+    <color name="transparent_white">#70ffffff</color>
+    <color name="transparent_black">#80000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="gray_97">#0a000000</color>
+    <color name="gray_94">#EFEFEF</color>
+    <color name="gray_85">#1e000000</color>
+    <color name="gray_81">#CFCFCF</color>
+    <color name="gray_62">#9F9F9F</color>
+    <color name="gray_50">#7F7F7F</color>
+    <color name="gray_31">#505050</color>
+    <color name="gray_20">#333333</color>
+    <color name="gray_12">#1E1E1E</color>
+    <color name ="black">#000000</color>
+</resources>
